@@ -5,9 +5,9 @@
 ### Contact information:
 
 **Phone:** +998 91 426 20 25<br>
-**E-mail:** [shokhrukh@gmail.com](shokhrukhkarimovme@gmail.com)<br>
-**GitHub:** [shokhrukhGit](https://github.com/shokhrukh1212)<br>
-**Telegram:** [shokhrukhTelegram](https://t.me/khon_engineer)<br>
+**E-mail:** [shokhrukh@gmail.com](shokhruxkarimovme@gmail.com)<br>
+**GitHub:** [shokhrukh_Git](https://github.com/shokhrukh1212)<br>
+**Telegram:** [shokhrukh_Telegram](https://t.me/khon_engineer)<br>
 
 ***
 
@@ -51,7 +51,7 @@ function comp(array1, array2){
 
 ### Education
 
-[**Tashkent University of Information technology**](https://www.ubtuit.uz/)<br>
+**University**: [**Tashkent University of Information technology**](https://www.ubtuit.uz/)<br>
 **Major**: Software Engineering<br>
 **Year**: Graduate student<br>
 
@@ -62,6 +62,7 @@ function comp(array1, array2){
 
 [**cs50**](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript): CS50's Computer science course<br>
 [**FreeCodeCamp**](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/): JavaScript Algorithms and Data Structures<br>
+*other several online courses*
 
 ***
 
