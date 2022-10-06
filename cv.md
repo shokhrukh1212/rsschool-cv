@@ -51,7 +51,7 @@ function comp(array1, array2){
 
 ### Education
 
-**[Tashkent University of Information technology]**(https://www.ubtuit.uz/)<br>
+[**Tashkent University of Information technology**](https://www.ubtuit.uz/)<br>
 **Major**: Software Engineering<br>
 **Year**: Graduate student<br>
 
@@ -60,8 +60,8 @@ function comp(array1, array2){
 ### Experience
 
 
-**[cs50]**(https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript): CS50's Computer science course<br>
-**[FreeCodeCamp]**(https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/): JavaScript Algorithms and Data Structures<br>
+[**cs50**](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript): CS50's Computer science course<br>
+[**FreeCodeCamp**](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/): JavaScript Algorithms and Data Structures<br>
 
 ***
 
