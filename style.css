@@ -136,6 +136,20 @@ span {
 }
 
 
+#contacts ul li a{
+  text-decoration: none;
+  color: black;
+}
+
+#contacts ul li a:hover{
+  color: yellow;
+}
+
+
+#contacts ul li{
+  list-style-type: none;
+}
+
 .contact {
   display: flex;
   background-color: #6EFFE2;
