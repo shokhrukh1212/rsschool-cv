@@ -1,0 +1,159 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /*background: linear-gradient(35deg, #838996, #004242);*/
+}
+
+
+
+header{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    padding: 30px 10px;
+    background-color: #333;   
+}
+
+.nav_links{
+    list-style: none;
+}
+.nav_links li{
+    display: inline-block;
+    padding: 0px 20px; 
+    font-size: 1.3em;  
+}
+.nav_links li a{
+    transition: all 0.3s ease 0s; 
+    text-decoration: none; 
+    color: #F06C79; 
+}
+.nav_links li a:hover{
+    color: #0088a9;
+}
+
+
+main{
+    min-height: 100vh;
+    display: flex;
+}
+
+main .about{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    padding: 0 30px;
+    font-size: 1.2em;
+    text-align: center;
+}
+
+main .about a{
+  text-decoration: none;
+}
+
+main .about a:hover{
+  color: red;
+}
+
+main .name, main h3{
+  padding-bottom: 30px;
+}
+
+main h3{
+  padding-top: 30px;
+}
+
+main .photo{
+    flex: 1;
+    text-align: center;
+    margin-top: 30px;
+}
+
+main .photo img{
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+}
+
+
+
+
+.section {
+  width: 100%;
+  height: 100vh;
+  font-size: 1.8rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 2rem;
+  color: #FFAFF2;
+  text-align: center;
+  padding: 0 90px;
+  line-height: 50px;
+}
+
+.section:last-child {
+  max-height: calc(100vh - 10.4rem);
+}
+
+.section h2{
+  color: #8437FF;
+}
+
+#skills{
+  text-align: left;
+}
+
+#skills ul{
+  color: #947CEB;
+}
+
+
+#skills ul li{
+  list-style-type: none;
+}
+
+
+span {
+  font-weight: bold;
+  font-size: 1.6em;
+  font-style: italic;
+  color: #1F4232;
+}
+
+
+.row ul{
+  color: #7D8064;
+}
+
+.section p{
+  color: #7D8064;
+}
+
+
+.contact {
+  display: flex;
+  background-color: #6EFFE2;
+  justify-content: space-around;
+  align-items: center;
+  padding: 2rem;
+}
+
+.contact .rs-course {
+  width: 4.5rem;
+}
+
+.contact .copyright {
+  font-size: 2rem;
+  font-weight: 600;
+  color: var(--beige);
+}
+
+.contact .github-icon {
+  width: 4.5rem;
+}
